@@ -1,0 +1,179 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (untitled)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="C:\Users\ASUS\PycharmProjects\untitled\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/untitled/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1068541244" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (scrapthedata)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\ASUS\PycharmProjects\scrapthedata\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/scrapthedata/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/scrapthedata/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/scrapthedata/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/scrapthedata/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-2060012415" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/scrapthedata" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (modules)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\ASUS\Desktop\Python Learn\modules\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/Python Learn/modules/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Python Learn/modules/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Python Learn/modules/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Python Learn/modules/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-118889029" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/Python Learn/modules" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (classes)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\ASUS\Desktop\Python Learn\classes\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/Python Learn/classes/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Python Learn/classes/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Python Learn/classes/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Python Learn/classes/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1500629338" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/Python Learn/classes" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (untitled)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\ASUS\Desktop\Python Learn\untitled\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/Python Learn/untitled" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (chapter1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\Users\ASUS\Desktop\Py_learn\chapter1\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/Py_learn/chapter1/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Py_learn/chapter1/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Py_learn/chapter1/venv" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/Py_learn/chapter1/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1771334146" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/Py_learn/chapter1" />
+    </jdk>
+  </component>
+</application>
